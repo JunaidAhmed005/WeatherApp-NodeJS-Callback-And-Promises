@@ -2,7 +2,7 @@
 
 <h3>Console Based using both callback function and promises</h3>
 
-<h3>In this app, google API (for location) and darksky.net API (for fetching weather ) are used.</h3>
+In this app, google API (for location) and darksky.net API (for fetching weather ) are used.
 
 <h2>To run this app (by callback func)</h2>
 node app.js --address or -a "Location (eg: Karachi)"
